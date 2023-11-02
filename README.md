@@ -1,11 +1,17 @@
-### Hi there 👋
-👋 Hi, I’m @saeid-ebrahimi
-👀 I’m interested in Programming and Web Development
+<p align="center">
+ ### Hi there 👋
+</p>
+<p align="center">
+ 👋 Hi, I’m @saeid-ebrahimi <br/>
+👀 I’m interested in Programming and Web Development  <br/>
 🌱 I’m currently learning Web Development
-🔭 I’m currently working on my website (unpublished Cydemy.com)
-💞️ I’m looking to collaborate on Front-End Development
-📫 How to reach me saeidebrahimiapply@gmail.com
-💬 Ask me about C++, Python, JavaScript and TypeScript
+🔭 I’m currently working on my website (unpublished Cydemy.com)  <br/>
+💞️ I’m looking to collaborate on Front-End Development  <br>
+📫 How to reach me saeidebrahimiapply@gmail.com <br>
+💬 Ask me about C++, Python, JavaScript and TypeScript <br>
+</p>
+
+
 ## ✉️ Find me on:
 
 <p align="center">
