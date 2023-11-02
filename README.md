@@ -10,7 +10,7 @@
 📫 How to reach me saeidebrahimiapply@gmail.com <br><br/>
 💬 Ask me about C++, Python, JavaScript and TypeScript <br><br/>
 </p>
-<img src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg>
+<img src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg height="50">
 
 <p align="center"> 🧰 Languages and Tools:</p>
 <p align="center">
