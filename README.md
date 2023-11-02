@@ -1,10 +1,10 @@
 <p align="center">
  ### Hi there 👋
 </p>
-<p align="center">
+<p align="center" style="margin-bottom: 2rem;">
  👋 Hi, I’m @saeid-ebrahimi <br/>
 👀 I’m interested in Programming and Web Development  <br/>
-🌱 I’m currently learning Web Development
+🌱 I’m currently learning Web Development <br/>
 🔭 I’m currently working on my website (unpublished Cydemy.com)  <br/>
 💞️ I’m looking to collaborate on Front-End Development  <br>
 📫 How to reach me saeidebrahimiapply@gmail.com <br>
