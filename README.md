@@ -7,7 +7,7 @@
 🌱 I’m currently learning Web Development <br/><br/>
 🔭 I’m currently working on my website (unpublished Cydemy.com)  <br/><br/>
 💞️ I’m looking to collaborate on Front-End Development  <br><br/>
-📫 How to reach me saeidebrahimiapply@gmail.com <br><br/>
+📫 Reach me <a href="mailto:saeidebrahimiapply@gmail.com">saeidebrahimiapply@gmail.com</a> <br><br/>
 💬 Ask me about C++, Python, JavaScript and TypeScript <br><br/>
 </p>
 <p align="center">
@@ -31,8 +31,8 @@
 </p>
 <p align=center>
    Top Used Languages: <br/>
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saeid-ebrahimi&theme=tokyonight)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saeid-ebrahimi&theme=tokyonight)<br/>
    My Github Stats: <br/>
-   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=saeid-ebrahimi&show_icons=true&theme=tokyonight)
+   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=saeid-ebrahimi&show_icons=true&theme=tokyonight)<br/>
 </p>
 
