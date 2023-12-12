@@ -13,7 +13,7 @@
 </p>
 <p align="center">
    Contact Me: <br/> <br/>
-   <img src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg height="50">
+   <a href="www.linkedin.com/in/saeid-ebrahimi"><img src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg height="50"></a>
 </p>
 
 
