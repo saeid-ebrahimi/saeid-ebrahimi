@@ -32,7 +32,7 @@
 </p>
 <p align=center style="vertical-align:top; margin:4px">
    Top Used Languages: <br/> <br/>
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saeid-ebrahimi&theme=tokyonight)<br/><br/>
+   [![Top Langs]](https://github-readme-stats.vercel.app/api/top-langs/?username=saeid-ebrahimi&theme=tokyonight)<br/><br/>
    My Github Stats: <br/><br/>
    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=saeid-ebrahimi&show_icons=true&theme=tokyonight)<br/><br/>
 </p>
