@@ -13,6 +13,7 @@
 💬 Ask me about C++, Python, JavaScript and TypeScript <br><br/>
 </p>
 <hr/>
+<div style="display:flex">
 <p align="center">
    Contact Me: <br/> <br/>
    <a href="https://www.linkedin.com/in/saeid-ebrahimi"><img src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg height="50"></a>
@@ -42,3 +43,4 @@
    <br/><br/>
 </p>
 
+</div>
