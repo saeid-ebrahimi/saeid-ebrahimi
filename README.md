@@ -11,12 +11,13 @@
 📫 Reach me on <a href="mailto:saeidebrahimiapply@gmail.com">saeidebrahimiapply@gmail.com</a> <br><br/>
 💬 Ask me about C++, Python, JavaScript and TypeScript <br><br/>
 </p>
+<hr/>
 <p align="center">
    Contact Me: <br/> <br/>
    <a href="https://www.linkedin.com/in/saeid-ebrahimi"><img src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg height="50"></a>
 </p>
 
-
+<hr/>
 <p align="center"> 🧰 Languages and Tools:</p>
 <p align="center">
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" height="40" style="vertical-align:top; margin:4px">
@@ -30,6 +31,7 @@
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
+<hr/>
 <p align=center style="vertical-align:top; margin:4px">
    Top Used Languages: <br/> <br/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeid-ebrahimi&theme=tokyonight" >
