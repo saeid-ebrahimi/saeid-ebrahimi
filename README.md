@@ -43,4 +43,3 @@
    <br/><br/>
 </p>
 <hr/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=saeid-ebrahimi"/>
