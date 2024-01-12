@@ -15,7 +15,6 @@
 💬 Ask me about Python, JavaScript, C++, and TypeScript <br><br/>
 </p>
 <hr/>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="saeid-ebrahimi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ae.linkedin.com/in/saeid-ebrahimi?trk=profile-badge">Saeid E.</a></div>
               
 <p align="center">
    Contact Me: <br/> <br/>
