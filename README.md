@@ -15,10 +15,12 @@
 💬 Ask me about Python, JavaScript, C++, and TypeScript <br><br/>
 </p>
 <hr/>
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="saeid-ebrahimi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ae.linkedin.com/in/saeid-ebrahimi?trk=profile-badge">Saeid E.</a></div>
+              
 <p align="center">
    Contact Me: <br/> <br/>
    <a href="https://www.linkedin.com/in/saeid-ebrahimi"><img src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg height="50"></a>
+  
 </p>
 
 <hr/>
