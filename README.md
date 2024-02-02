@@ -1,11 +1,11 @@
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
-<img src="https://media.licdn.com/dms/image/D4D16AQH_K6aorjpR3A/profile-displaybackgroundimage-shrink_350_1400/0/1699312227337?e=1706745600&v=beta&t=ys_kt69esEO_QS7H1HNI0gdGtXJwXK4U2onuzzDwqCM" width="1000">
+
 <hr/>
 
 <p align="center">
    Hi there 👋
 </p>
-<p align="center" style="margin-bottom: 2rem;">
+<p align="center" style="margin-bottom: '32px';">
 👋 I’m <a href='https://github.com/saeid-ebrahimi'> saeid ebrahimi </a><br/><br/>
 👀 I’m interested in Programming and Web Development  <br/><br/>
 🌱 I’m currently learning Web Development <br/><br/>
