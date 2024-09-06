@@ -9,7 +9,6 @@
 👋 I’m <a href='https://github.com/saeid-ebrahimi'> saeid ebrahimi </a><br/><br/>
 👀 I’m interested in Programming and Web Development  <br/><br/>
 🌱 I’m currently learning Web Development <br/><br/>
-🔭 I’m currently working on my website (unpublished Cydemy.com)  <br/><br/>
 💞️ I’m looking to collaborate on Front-End Development  <br><br/>
 📫 Reach me on <a href="mailto:saeidebrahimiapply@gmail.com">saeidebrahimiapply@gmail.com</a> <br><br/>
 💬 Ask me about Python, JavaScript, C++, and TypeScript <br><br/>
